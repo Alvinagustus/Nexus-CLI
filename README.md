@@ -67,7 +67,7 @@ screen -S nexus
 curl https://cli.nexus.xyz/ | sh
 ```
 
-**3- Run with an existing node ID**
+**3- ONCE AGAIN IF YOU USE UBUNTU 22 YOU CAN'T RUN THESE COMMAND, PLEASE READ TROUBLESHOOT SECTION Run with an existing node ID**
 
 ```
 source ~/.bashrc
