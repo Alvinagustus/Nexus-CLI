@@ -138,7 +138,7 @@ htop
 ---
 
 ### 4. Manage your Node screen:
-* To minimze the screen: `CTRL+A+D`
+* To minimize the screen: `CTRL+A+D`
 
 * To return to screen: `screen -r nexus`
 
