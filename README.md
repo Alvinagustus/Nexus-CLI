@@ -147,6 +147,7 @@ htop
 ---
 
 ## Troubleshoot
+## You can't run the normal command if you use ubuntu 22, so we gonna install new GLIBC and run it with other command
 ### Error: nexus-network: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.39' not found (required by nexus-network)
 1- Confirm your installed GLIBC version:
 ```
